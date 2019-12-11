@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+Geometry of Culture
+=================
+Github site with code and data associated with the ASR paper on the Geometry of Culture. The full paper can be found here: https://journals.sagepub.com/doi/full/10.1177/0003122419877135
 
-You can use the [editor on GitHub](https://github.com/KnowledgeLab/GeometryofCulture/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Data
+<i>Word Embedding Models</i>
+ * We provide 2 pre-trained word embedding models that are used in our analyses.<br/>
+   * Google News embedding: https://www.dropbox.com/s/5m9s5326off2lcg/google_news_embedding.zip?dl=0 <br/>
+   * Google Ngrams US, 2000-12:
+   * GLoVe embedding: https://nlp.stanford.edu/projects/glove/
+ <br/>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<i> Google Ngrams Raw Text </i>
+<br/>
+ * For our historical analyses and contemporary validation, we train embedding models on the full Google Ngrams US corpus for particular time periods. The Google Ngrams US corpus is publicly available for download and is hosted here: 
+ <br/>
 
-### Markdown
+ <i> Survey of Cultural Associations </i>
+ <br/>
+ * We also provide results from the Mechanical Turk survey of cultural associations. Data files include mean associations on race, class, and gender dimensions for 59 terms. We provide files with and without poststratification weights. These files are hosted here on github in the "Survey of Cultural Associations" directory. Details of the survey can be found in Appendix A of the article.
+<br/>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KnowledgeLab/GeometryofCulture/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
