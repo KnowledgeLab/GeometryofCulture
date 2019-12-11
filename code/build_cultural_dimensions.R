@@ -2,9 +2,9 @@ library("ggplot2")
 memory.limit(1500000)
 
 
-survey<-readRDS("/DIRECTORY/survey_dataset_means_weighted.rds")
+survey<-read.csv(file="/DIRECTORY/survey_dataset_means_weighted.csv",header=TRUE,row.names=1)
 df<-read.csv(file="/DIRECTORY/GoogleNews_Embedding.csv", header=TRUE,row.names=1, sep=",")
-#df<-read.csv(file="/DIRECTORY/US_Ngrams_2000_12.csv")
+#df<-read.csv(file="/DIRECTORY/US_Ngrams_2000_12.csv", header=TRUE,row.names=1, sep=",")
 
 #####DEFINE FUNCTIONS##########
 #Calculate norm of vector#
