@@ -1,6 +1,6 @@
 Geometry of Culture
 =================
-Github site with code and data associated with the ASR paper on the Geometry of Culture. The full paper can be found here: https://journals.sagepub.com/doi/full/10.1177/0003122419877135
+Code and data associated with the ASR paper on the Geometry of Culture. The full paper can be found here: https://journals.sagepub.com/doi/full/10.1177/0003122419877135
 
 ## Data
 <i>Word Embedding Models</i>
