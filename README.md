@@ -17,7 +17,7 @@ Code and data associated with the ASR paper on the Geometry of Culture. The full
 
  <i> Survey of Cultural Associations </i>
  <br/>
- * We also provide results from the Mechanical Turk survey of cultural associations. Data files include mean associations on race, class, and gender dimensions for 59 terms. We provide files with and without poststratification weights. These files are hosted here on github in the "Survey of Cultural Associations" directory. Details of the survey can be found in Appendix A of the article.
+ * We also provide results from the Mechanical Turk survey of cultural associations. Data files include mean associations on race, class, and gender dimensions for 59 terms. We provide files with and without poststratification weights. These files are hosted here on github in the "survey_data" directory. Details of the survey can be found in Appendix A of the article.
 <br/>
 
 ## Code
