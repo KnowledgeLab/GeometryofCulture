@@ -12,7 +12,7 @@ Code and data associated with the ASR paper on the Geometry of Culture. The full
 
 <i> Google Ngrams Raw Text </i>
 <br/>
- * For our historical analyses and contemporary validation, we train embedding models on the full Google Ngrams US corpus for particular time periods. The Google Ngrams US corpus is publicly available for download and is hosted here: 
+ * For our historical analyses and contemporary validation, we train embedding models on the full Google Ngrams US corpus for particular time periods. The Google Ngrams US corpus is publicly available for download and is hosted here: http://storage.googleapis.com/books/ngrams/books/datasetsv2.html
  <br/>
 
  <i> Survey of Cultural Associations </i>
